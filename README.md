@@ -52,7 +52,7 @@
 6. [Vielang](https://vielang.vercel.app/dev-mode)
 
 
-<img src="https://raw.githubusercontent.com/h-vien/h-vien/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tino1501/h-vien/output/snake.svg" alt="Snake animation" />
 
 ###
 
